@@ -1,0 +1,11 @@
+C:\Users\DELL\Documents\project\SpamChat\bin\Release\Spam Chat.exe.config
+C:\Users\DELL\Documents\project\SpamChat\bin\Release\Spam Chat.exe
+C:\Users\DELL\Documents\project\SpamChat\bin\Release\Spam Chat.pdb
+C:\Users\DELL\Documents\project\SpamChat\bin\Release\Guna.UI2.dll
+C:\Users\DELL\Documents\project\SpamChat\obj\Release\SpamChat.SpamChat.resources
+C:\Users\DELL\Documents\project\SpamChat\obj\Release\SpamChat.Properties.Resources.resources
+C:\Users\DELL\Documents\project\SpamChat\obj\Release\SpamChat.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\project\SpamChat\obj\Release\SpamChat.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\project\SpamChat\obj\Release\SpamChat.csproj.CopyComplete
+C:\Users\DELL\Documents\project\SpamChat\obj\Release\Spam Chat.exe
+C:\Users\DELL\Documents\project\SpamChat\obj\Release\Spam Chat.pdb

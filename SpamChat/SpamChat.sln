@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpamChat", "SpamChat.csproj", "{A81DBFCB-6D5D-4328-9092-F8BE35ACAA1C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{BCACEAA3-0292-4554-8DA6-D087502392CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A81DBFCB-6D5D-4328-9092-F8BE35ACAA1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A81DBFCB-6D5D-4328-9092-F8BE35ACAA1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A81DBFCB-6D5D-4328-9092-F8BE35ACAA1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A81DBFCB-6D5D-4328-9092-F8BE35ACAA1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCACEAA3-0292-4554-8DA6-D087502392CC}.Debug|Any CPU.ActiveCfg = Debug
+		{BCACEAA3-0292-4554-8DA6-D087502392CC}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A545873-B09A-41F9-9DC1-6E40AD593035}
+	EndGlobalSection
+EndGlobal
