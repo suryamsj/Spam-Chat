@@ -7,6 +7,13 @@ Aplikasi untuk melakukan spam chat. Kalo kamu bucin, bisa buat spam doi mu (bang
 ### Informasi
 Untuk kamu yang gak mau buka-buka codenya, tersedia installernya juga ada difolder Setup -> Debug. Langsung install tanpa repot download source code.
 
+### Cara Penggunaan
+- Atur waktu terlebih dahulu, waktu dalam milisecond jadi kalo mau 1 detik ya masukkan 1000.
+- Tulis pesan yang mau kamu kirim sebagai spam chat, misalnya Sayang ayo sahur. Kalo udah klik tombol mulai spam dan arahkan mouse kamu ke kotak chat whatsapp misalnya.
+- kalo mau stop spam, ya tinggal klik tombol akhiri spam. Langsung berhenti spam dan data yang di inputkan sebelumnya akan menghilang. kalo mau spam chat lagi balik ke paling awal.
+
+### Screenshot
+
 # Catatan
 Tolong dipergunakan dengan baik, karena spam chat juga tidak bagus dilakukan sekalipun itu pacar mu.
 
