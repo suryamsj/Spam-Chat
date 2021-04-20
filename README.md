@@ -5,7 +5,7 @@ Aplikasi untuk melakukan spam chat. Kalo kamu bucin, bisa buat spam doi mu (bang
  Aplikasi ini dibuat dengan bahasa pemrograman C# dan menggunakan Framework GUNA UI untuk membuat tampilan menjadi modern.
 
 ### Informasi
-Untuk kamu yang gak mau buka-buka codenya, tersedia installernya juga ada difolder Setup -> Debug. Langsung install tanpa repot download source code.
+Untuk kamu yang gak mau buka-buka codenya, tersedia installernya juga tinggal download langsung pake tanpa ribet.
 
 ### Cara Penggunaan
 - Atur waktu terlebih dahulu, waktu dalam milisecond jadi kalo mau 1 detik ya masukkan 1000.
