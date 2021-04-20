@@ -13,6 +13,7 @@ Untuk kamu yang gak mau buka-buka codenya, tersedia installernya juga ada difold
 - kalo mau stop spam, ya tinggal klik tombol akhiri spam. Langsung berhenti spam dan data yang di inputkan sebelumnya akan menghilang. kalo mau spam chat lagi balik ke paling awal.
 
 ### Screenshot
+![Gambar](https://raw.githubusercontent.com/suryamsj/Spam-Chat/main/Screenshot/SpamChat.PNG)
 
 # Catatan
 Tolong dipergunakan dengan baik, karena spam chat juga tidak bagus dilakukan sekalipun itu pacar mu.
