@@ -3,6 +3,9 @@ Aplikasi untuk melakukan spam chat. Kalo kamu bucin, bisa buat spam doi mu (bang
 
 ### Tentang
  Aplikasi ini dibuat dengan bahasa pemrograman C# dan menggunakan Framework GUNA UI untuk membuat tampilan menjadi modern.
+ 
+### Donasi
+<a href="https://trakteer.id/suryamsj/tip" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-3.jpg" height="40" style="border: 0px; height: 40px;" alt="Trakteer Saya"></a>
 
 ### Informasi
 Untuk kamu yang gak mau buka-buka codenya, tersedia installernya juga tinggal download langsung pake tanpa ribet.
@@ -17,8 +20,3 @@ Untuk kamu yang gak mau buka-buka codenya, tersedia installernya juga tinggal do
 
 # Catatan
 Tolong dipergunakan dengan baik, karena spam chat juga tidak bagus dilakukan sekalipun itu pacar mu.
-
-### Donasi
-Anda bisa support saya di
-[Trakteer](https://trakteer.id/nekocode) dan [Saweria](https://saweria.co/suryamsj)
-
